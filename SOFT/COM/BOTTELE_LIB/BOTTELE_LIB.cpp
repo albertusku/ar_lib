@@ -3,8 +3,7 @@
 #include "BOTTELE_LIB.h"
 #include <vector>
 
-#define BOT_TOKEN "6546943490:AAFMCrkv9-P8tusV1EZvVxLKZv4Q_AtrOuk"
-#define CHAT_ID "342783333"
+
 
 WiFiClientSecure secured_client;
 UniversalTelegramBot bot(BOT_TOKEN, secured_client);

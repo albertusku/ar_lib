@@ -13,7 +13,7 @@
 
 int Wlan_status=WL_IDLE_STATUS;
 WLAN_PROF prof_WLAN;
-std::vector<std::pair<String,String>> WLAN_SSID_PASS={{"MiFibra-9805","4orwHr9A"}};
+
 
 
 void setup_WLAN()
