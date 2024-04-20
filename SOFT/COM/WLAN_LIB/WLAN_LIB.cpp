@@ -9,7 +9,6 @@
 #include "IPAddress.h"
 #include <wifi_provisioning/manager.h>
 #include <WiFiMulti.h>
-#include "VAR_GLOB.h"
 
 int Wlan_status=WL_IDLE_STATUS;
 WLAN_PROF prof_WLAN;
