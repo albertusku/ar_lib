@@ -1,8 +1,0 @@
-BOTTELE_LIB.cpp
-
-	#define BOT_TOKEN "6546943490:AAFMCrkv9-P8tusV1EZvVxLKZv4Q_AtrOuk"
-	#define CHAT_ID "342783333"
-
-WLAN_LIB.cpp
-	
-	std::vector<std::pair<String,String>> WLAN_SSID_PASS={{"MiFibra-9805","4orwHr9A"}};
