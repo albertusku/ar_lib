@@ -1,0 +1,9 @@
+[submodule "HARD/knowledge/lib/bme280"]
+	path = HARD/knowledge/lib/bme280
+	url = https://github.com/besi/kicad-bme280
+[submodule "HARD/knowledge/bme280"]
+	path = HARD/knowledge/bme280
+	url = https://github.com/besi/kicad-bme280
+[submodule "HARD/knowledge/esp32/starter_esp32"]
+	path = HARD/knowledge/esp32/starter_esp32
+	url = https://github.com/esp-rs/esp-rust-board.git
